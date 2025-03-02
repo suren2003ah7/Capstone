@@ -1,0 +1,1267 @@
+# x variables
+var x_1_1_1 binary;
+var x_1_1_2 binary;
+var x_1_1_3 binary;
+var x_1_1_4 binary;
+var x_1_1_5 binary;
+var x_1_1_6 binary;
+var x_1_1_7 binary;
+var x_1_1_8 binary;
+var x_1_2_1 binary;
+var x_1_2_2 binary;
+var x_1_2_3 binary;
+var x_1_2_4 binary;
+var x_1_2_5 binary;
+var x_1_2_6 binary;
+var x_1_2_7 binary;
+var x_1_2_8 binary;
+var x_1_3_1 binary;
+var x_1_3_2 binary;
+var x_1_3_3 binary;
+var x_1_3_4 binary;
+var x_1_3_5 binary;
+var x_1_3_6 binary;
+var x_1_3_7 binary;
+var x_1_3_8 binary;
+var x_1_4_1 binary;
+var x_1_4_2 binary;
+var x_1_4_3 binary;
+var x_1_4_4 binary;
+var x_1_4_5 binary;
+var x_1_4_6 binary;
+var x_1_4_7 binary;
+var x_1_4_8 binary;
+var x_1_5_1 binary;
+var x_1_5_2 binary;
+var x_1_5_3 binary;
+var x_1_5_4 binary;
+var x_1_5_5 binary;
+var x_1_5_6 binary;
+var x_1_5_7 binary;
+var x_1_5_8 binary;
+var x_2_1_1 binary;
+var x_2_1_2 binary;
+var x_2_1_3 binary;
+var x_2_1_4 binary;
+var x_2_1_5 binary;
+var x_2_1_6 binary;
+var x_2_1_7 binary;
+var x_2_1_8 binary;
+var x_2_2_1 binary;
+var x_2_2_2 binary;
+var x_2_2_3 binary;
+var x_2_2_4 binary;
+var x_2_2_5 binary;
+var x_2_2_6 binary;
+var x_2_2_7 binary;
+var x_2_2_8 binary;
+var x_2_3_1 binary;
+var x_2_3_2 binary;
+var x_2_3_3 binary;
+var x_2_3_4 binary;
+var x_2_3_5 binary;
+var x_2_3_6 binary;
+var x_2_3_7 binary;
+var x_2_3_8 binary;
+var x_2_4_1 binary;
+var x_2_4_2 binary;
+var x_2_4_3 binary;
+var x_2_4_4 binary;
+var x_2_4_5 binary;
+var x_2_4_6 binary;
+var x_2_4_7 binary;
+var x_2_4_8 binary;
+var x_2_5_1 binary;
+var x_2_5_2 binary;
+var x_2_5_3 binary;
+var x_2_5_4 binary;
+var x_2_5_5 binary;
+var x_2_5_6 binary;
+var x_2_5_7 binary;
+var x_2_5_8 binary;
+
+# y variables
+var y_1_1_1 binary;
+var y_1_1_2 binary;
+var y_1_1_3 binary;
+var y_1_1_4 binary;
+var y_1_1_5 binary;
+var y_1_1_6 binary;
+var y_1_1_7 binary;
+var y_1_1_8 binary;
+var y_1_2_1 binary;
+var y_1_2_2 binary;
+var y_1_2_3 binary;
+var y_1_2_4 binary;
+var y_1_2_5 binary;
+var y_1_2_6 binary;
+var y_1_2_7 binary;
+var y_1_2_8 binary;
+var y_1_3_1 binary;
+var y_1_3_2 binary;
+var y_1_3_3 binary;
+var y_1_3_4 binary;
+var y_1_3_5 binary;
+var y_1_3_6 binary;
+var y_1_3_7 binary;
+var y_1_3_8 binary;
+var y_1_4_1 binary;
+var y_1_4_2 binary;
+var y_1_4_3 binary;
+var y_1_4_4 binary;
+var y_1_4_5 binary;
+var y_1_4_6 binary;
+var y_1_4_7 binary;
+var y_1_4_8 binary;
+var y_1_5_1 binary;
+var y_1_5_2 binary;
+var y_1_5_3 binary;
+var y_1_5_4 binary;
+var y_1_5_5 binary;
+var y_1_5_6 binary;
+var y_1_5_7 binary;
+var y_1_5_8 binary;
+var y_2_1_1 binary;
+var y_2_1_2 binary;
+var y_2_1_3 binary;
+var y_2_1_4 binary;
+var y_2_1_5 binary;
+var y_2_1_6 binary;
+var y_2_1_7 binary;
+var y_2_1_8 binary;
+var y_2_2_1 binary;
+var y_2_2_2 binary;
+var y_2_2_3 binary;
+var y_2_2_4 binary;
+var y_2_2_5 binary;
+var y_2_2_6 binary;
+var y_2_2_7 binary;
+var y_2_2_8 binary;
+var y_2_3_1 binary;
+var y_2_3_2 binary;
+var y_2_3_3 binary;
+var y_2_3_4 binary;
+var y_2_3_5 binary;
+var y_2_3_6 binary;
+var y_2_3_7 binary;
+var y_2_3_8 binary;
+var y_2_4_1 binary;
+var y_2_4_2 binary;
+var y_2_4_3 binary;
+var y_2_4_4 binary;
+var y_2_4_5 binary;
+var y_2_4_6 binary;
+var y_2_4_7 binary;
+var y_2_4_8 binary;
+var y_2_5_1 binary;
+var y_2_5_2 binary;
+var y_2_5_3 binary;
+var y_2_5_4 binary;
+var y_2_5_5 binary;
+var y_2_5_6 binary;
+var y_2_5_7 binary;
+var y_2_5_8 binary;
+
+# a variables
+var a_1_1_1 binary;
+var a_1_1_2 binary;
+var a_1_1_3 binary;
+var a_1_1_4 binary;
+var a_1_1_5 binary;
+var a_1_1_6 binary;
+var a_1_1_7 binary;
+var a_1_2_1 binary;
+var a_1_2_2 binary;
+var a_1_2_3 binary;
+var a_1_2_4 binary;
+var a_1_2_5 binary;
+var a_1_2_6 binary;
+var a_1_2_7 binary;
+var a_1_3_1 binary;
+var a_1_3_2 binary;
+var a_1_3_3 binary;
+var a_1_3_4 binary;
+var a_1_3_5 binary;
+var a_1_3_6 binary;
+var a_1_3_7 binary;
+var a_1_4_1 binary;
+var a_1_4_2 binary;
+var a_1_4_3 binary;
+var a_1_4_4 binary;
+var a_1_4_5 binary;
+var a_1_4_6 binary;
+var a_1_4_7 binary;
+var a_1_5_1 binary;
+var a_1_5_2 binary;
+var a_1_5_3 binary;
+var a_1_5_4 binary;
+var a_1_5_5 binary;
+var a_1_5_6 binary;
+var a_1_5_7 binary;
+var a_2_1_1 binary;
+var a_2_1_2 binary;
+var a_2_1_3 binary;
+var a_2_1_4 binary;
+var a_2_1_5 binary;
+var a_2_1_6 binary;
+var a_2_1_7 binary;
+var a_2_2_1 binary;
+var a_2_2_2 binary;
+var a_2_2_3 binary;
+var a_2_2_4 binary;
+var a_2_2_5 binary;
+var a_2_2_6 binary;
+var a_2_2_7 binary;
+var a_2_3_1 binary;
+var a_2_3_2 binary;
+var a_2_3_3 binary;
+var a_2_3_4 binary;
+var a_2_3_5 binary;
+var a_2_3_6 binary;
+var a_2_3_7 binary;
+var a_2_4_1 binary;
+var a_2_4_2 binary;
+var a_2_4_3 binary;
+var a_2_4_4 binary;
+var a_2_4_5 binary;
+var a_2_4_6 binary;
+var a_2_4_7 binary;
+var a_2_5_1 binary;
+var a_2_5_2 binary;
+var a_2_5_3 binary;
+var a_2_5_4 binary;
+var a_2_5_5 binary;
+var a_2_5_6 binary;
+var a_2_5_7 binary;
+
+# z variables
+var z_1_1 integer >= 0;
+var z_1_2 integer >= 0;
+var z_1_3 integer >= 0;
+var z_1_4 integer >= 0;
+var z_1_5 integer >= 0;
+var z_2_1 integer >= 0;
+var z_2_2 integer >= 0;
+var z_2_3 integer >= 0;
+var z_2_4 integer >= 0;
+var z_2_5 integer >= 0;
+
+# Objective function
+maximize z:
+32 * (y_1_1_1 + y_1_1_2 + y_1_1_3 + y_1_1_4 + y_1_1_5 + y_1_1_6 + y_1_1_7 + y_1_1_8 + y_2_1_1 + y_2_1_2 + y_2_1_3 + y_2_1_4 + y_2_1_5 + y_2_1_6 + y_2_1_7 + y_2_1_8) +
+16 * (y_1_2_1 + y_1_2_2 + y_1_2_3 + y_1_2_4 + y_1_2_5 + y_1_2_6 + y_1_2_7 + y_1_2_8 + y_2_2_1 + y_2_2_2 + y_2_2_3 + y_2_2_4 + y_2_2_5 + y_2_2_6 + y_2_2_7 + y_2_2_8) +
+8 * (y_1_3_1 + y_1_3_2 + y_1_3_3 + y_1_3_4 + y_1_3_5 + y_1_3_6 + y_1_3_7 + y_1_3_8 + y_2_3_1 + y_2_3_2 + y_2_3_3 + y_2_3_4 + y_2_3_5 + y_2_3_6 + y_2_3_7 + y_2_3_8) +
+4 * (y_1_4_1 + y_1_4_2 + y_1_4_3 + y_1_4_4 + y_1_4_5 + y_1_4_6 + y_1_4_7 + y_1_4_8 + y_2_4_1 + y_2_4_2 + y_2_4_3 + y_2_4_4 + y_2_4_5 + y_2_4_6 + y_2_4_7 + y_2_4_8) +
+2 * (y_1_5_1 + y_1_5_2 + y_1_5_3 + y_1_5_4 + y_1_5_5 + y_1_5_6 + y_1_5_7 + y_1_5_8 + y_2_5_1 + y_2_5_2 + y_2_5_3 + y_2_5_4 + y_2_5_5 + y_2_5_6 + y_2_5_7 + y_2_5_8) +
+z_1_1 + z_1_2 + z_1_3 + z_1_4 + z_1_5 + z_2_1 + z_2_2 + z_2_3 + z_2_4 + z_2_5;
+
+# Matching x and y
+subject to match_y_1_X_1:
+x_1_1_1 + x_1_2_1 + x_1_3_1 + x_1_4_1 + x_1_5_1 = y_1_1_1 + y_1_2_1 + y_1_3_1 + y_1_4_1 + y_1_5_1;
+subject to match_y_1_X_2:
+x_1_1_2 + x_1_2_2 + x_1_3_2 + x_1_4_2 + x_1_5_2 = y_1_1_2 + y_1_2_2 + y_1_3_2 + y_1_4_2 + y_1_5_2;
+subject to match_y_1_X_3:
+x_1_1_3 + x_1_2_3 + x_1_3_3 + x_1_4_3 + x_1_5_3 = y_1_1_3 + y_1_2_3 + y_1_3_3 + y_1_4_3 + y_1_5_3;
+subject to match_y_1_X_4:
+x_1_1_4 + x_1_2_4 + x_1_3_4 + x_1_4_4 + x_1_5_4 = y_1_1_4 + y_1_2_4 + y_1_3_4 + y_1_4_4 + y_1_5_4;
+subject to match_y_1_X_5:
+x_1_1_5 + x_1_2_5 + x_1_3_5 + x_1_4_5 + x_1_5_5 = y_1_1_5 + y_1_2_5 + y_1_3_5 + y_1_4_5 + y_1_5_5;
+subject to match_y_1_X_6:
+x_1_1_6 + x_1_2_6 + x_1_3_6 + x_1_4_6 + x_1_5_6 = y_1_1_6 + y_1_2_6 + y_1_3_6 + y_1_4_6 + y_1_5_6;
+subject to match_y_1_X_7:
+x_1_1_7 + x_1_2_7 + x_1_3_7 + x_1_4_7 + x_1_5_7 = y_1_1_7 + y_1_2_7 + y_1_3_7 + y_1_4_7 + y_1_5_7;
+subject to match_y_1_X_8:
+x_1_1_8 + x_1_2_8 + x_1_3_8 + x_1_4_8 + x_1_5_8 = y_1_1_8 + y_1_2_8 + y_1_3_8 + y_1_4_8 + y_1_5_8;
+subject to match_y_2_X_1:
+x_2_1_1 + x_2_2_1 + x_2_3_1 + x_2_4_1 + x_2_5_1 = y_2_1_1 + y_2_2_1 + y_2_3_1 + y_2_4_1 + y_2_5_1;
+subject to match_y_2_X_2:
+x_2_1_2 + x_2_2_2 + x_2_3_2 + x_2_4_2 + x_2_5_2 = y_2_1_2 + y_2_2_2 + y_2_3_2 + y_2_4_2 + y_2_5_2;
+subject to match_y_2_X_3:
+x_2_1_3 + x_2_2_3 + x_2_3_3 + x_2_4_3 + x_2_5_3 = y_2_1_3 + y_2_2_3 + y_2_3_3 + y_2_4_3 + y_2_5_3;
+subject to match_y_2_X_4:
+x_2_1_4 + x_2_2_4 + x_2_3_4 + x_2_4_4 + x_2_5_4 = y_2_1_4 + y_2_2_4 + y_2_3_4 + y_2_4_4 + y_2_5_4;
+subject to match_y_2_X_5:
+x_2_1_5 + x_2_2_5 + x_2_3_5 + x_2_4_5 + x_2_5_5 = y_2_1_5 + y_2_2_5 + y_2_3_5 + y_2_4_5 + y_2_5_5;
+subject to match_y_2_X_6:
+x_2_1_6 + x_2_2_6 + x_2_3_6 + x_2_4_6 + x_2_5_6 = y_2_1_6 + y_2_2_6 + y_2_3_6 + y_2_4_6 + y_2_5_6;
+subject to match_y_2_X_7:
+x_2_1_7 + x_2_2_7 + x_2_3_7 + x_2_4_7 + x_2_5_7 = y_2_1_7 + y_2_2_7 + y_2_3_7 + y_2_4_7 + y_2_5_7;
+subject to match_y_2_X_8:
+x_2_1_8 + x_2_2_8 + x_2_3_8 + x_2_4_8 + x_2_5_8 = y_2_1_8 + y_2_2_8 + y_2_3_8 + y_2_4_8 + y_2_5_8;
+
+# Sum constraints for x
+subject to sum_x_X_1_X:
+x_1_1_1 + x_1_1_2 + x_1_1_3 + x_1_1_4 + x_1_1_5 + x_1_1_6 + x_1_1_7 + x_1_1_8 + x_2_1_1 + x_2_1_2 + x_2_1_3 + x_2_1_4 + x_2_1_5 + x_2_1_6 + x_2_1_7 + x_2_1_8 = 5;
+subject to sum_x_X_2_X:
+x_1_2_1 + x_1_2_2 + x_1_2_3 + x_1_2_4 + x_1_2_5 + x_1_2_6 + x_1_2_7 + x_1_2_8 + x_2_2_1 + x_2_2_2 + x_2_2_3 + x_2_2_4 + x_2_2_5 + x_2_2_6 + x_2_2_7 + x_2_2_8 = 6;
+subject to sum_x_X_3_X:
+x_1_3_1 + x_1_3_2 + x_1_3_3 + x_1_3_4 + x_1_3_5 + x_1_3_6 + x_1_3_7 + x_1_3_8 + x_2_3_1 + x_2_3_2 + x_2_3_3 + x_2_3_4 + x_2_3_5 + x_2_3_6 + x_2_3_7 + x_2_3_8 = 6;
+subject to sum_x_X_4_X:
+x_1_4_1 + x_1_4_2 + x_1_4_3 + x_1_4_4 + x_1_4_5 + x_1_4_6 + x_1_4_7 + x_1_4_8 + x_2_4_1 + x_2_4_2 + x_2_4_3 + x_2_4_4 + x_2_4_5 + x_2_4_6 + x_2_4_7 + x_2_4_8 = 5;
+subject to sum_x_X_5_X:
+x_1_5_1 + x_1_5_2 + x_1_5_3 + x_1_5_4 + x_1_5_5 + x_1_5_6 + x_1_5_7 + x_1_5_8 + x_2_5_1 + x_2_5_2 + x_2_5_3 + x_2_5_4 + x_2_5_5 + x_2_5_6 + x_2_5_7 + x_2_5_8 = 5;
+
+# Professor placement constraints
+subject to placement_professor_1_hour_1:
+x_1_1_1 + x_2_1_1 <= 1;
+subject to placement_professor_1_hour_2:
+x_1_1_2 + x_2_1_2 <= 1;
+subject to placement_professor_1_hour_3:
+x_1_1_3 + x_2_1_3 <= 1;
+subject to placement_professor_1_hour_4:
+x_1_1_4 + x_2_1_4 <= 1;
+subject to placement_professor_1_hour_5:
+x_1_1_5 + x_2_1_5 <= 1;
+subject to placement_professor_1_hour_6:
+x_1_1_6 + x_2_1_6 <= 1;
+subject to placement_professor_1_hour_7:
+x_1_1_7 + x_2_1_7 <= 1;
+subject to placement_professor_1_hour_8:
+x_1_1_8 + x_2_1_8 <= 1;
+subject to placement_professor_2_hour_1:
+x_1_2_1 + x_2_2_1 <= 1;
+subject to placement_professor_2_hour_2:
+x_1_2_2 + x_2_2_2 <= 1;
+subject to placement_professor_2_hour_3:
+x_1_2_3 + x_2_2_3 <= 1;
+subject to placement_professor_2_hour_4:
+x_1_2_4 + x_2_2_4 <= 1;
+subject to placement_professor_2_hour_5:
+x_1_2_5 + x_2_2_5 <= 1;
+subject to placement_professor_2_hour_6:
+x_1_2_6 + x_2_2_6 <= 1;
+subject to placement_professor_2_hour_7:
+x_1_2_7 + x_2_2_7 <= 1;
+subject to placement_professor_2_hour_8:
+x_1_2_8 + x_2_2_8 <= 1;
+subject to placement_professor_3_hour_1:
+x_1_3_1 + x_2_3_1 <= 1;
+subject to placement_professor_3_hour_2:
+x_1_3_2 + x_2_3_2 <= 1;
+subject to placement_professor_3_hour_3:
+x_1_3_3 + x_2_3_3 <= 1;
+subject to placement_professor_3_hour_4:
+x_1_3_4 + x_2_3_4 <= 1;
+subject to placement_professor_3_hour_5:
+x_1_3_5 + x_2_3_5 <= 1;
+subject to placement_professor_3_hour_6:
+x_1_3_6 + x_2_3_6 <= 1;
+subject to placement_professor_3_hour_7:
+x_1_3_7 + x_2_3_7 <= 1;
+subject to placement_professor_3_hour_8:
+x_1_3_8 + x_2_3_8 <= 1;
+subject to placement_professor_4_hour_1:
+x_1_4_1 + x_2_4_1 <= 1;
+subject to placement_professor_4_hour_2:
+x_1_4_2 + x_2_4_2 <= 1;
+subject to placement_professor_4_hour_3:
+x_1_4_3 + x_2_4_3 <= 1;
+subject to placement_professor_4_hour_4:
+x_1_4_4 + x_2_4_4 <= 1;
+subject to placement_professor_4_hour_5:
+x_1_4_5 + x_2_4_5 <= 1;
+subject to placement_professor_4_hour_6:
+x_1_4_6 + x_2_4_6 <= 1;
+subject to placement_professor_4_hour_7:
+x_1_4_7 + x_2_4_7 <= 1;
+subject to placement_professor_4_hour_8:
+x_1_4_8 + x_2_4_8 <= 1;
+subject to placement_professor_5_hour_1:
+x_1_5_1 + x_2_5_1 <= 1;
+subject to placement_professor_5_hour_2:
+x_1_5_2 + x_2_5_2 <= 1;
+subject to placement_professor_5_hour_3:
+x_1_5_3 + x_2_5_3 <= 1;
+subject to placement_professor_5_hour_4:
+x_1_5_4 + x_2_5_4 <= 1;
+subject to placement_professor_5_hour_5:
+x_1_5_5 + x_2_5_5 <= 1;
+subject to placement_professor_5_hour_6:
+x_1_5_6 + x_2_5_6 <= 1;
+subject to placement_professor_5_hour_7:
+x_1_5_7 + x_2_5_7 <= 1;
+subject to placement_professor_5_hour_8:
+x_1_5_8 + x_2_5_8 <= 1;
+
+# z constraints
+subject to sum_z_1_1:
+z_1_1 = a_1_1_1 + a_1_1_2 + a_1_1_3 + a_1_1_4 + a_1_1_5 + a_1_1_6 + a_1_1_7;
+subject to sum_z_1_2:
+z_1_2 = a_1_2_1 + a_1_2_2 + a_1_2_3 + a_1_2_4 + a_1_2_5 + a_1_2_6 + a_1_2_7;
+subject to sum_z_1_3:
+z_1_3 = a_1_3_1 + a_1_3_2 + a_1_3_3 + a_1_3_4 + a_1_3_5 + a_1_3_6 + a_1_3_7;
+subject to sum_z_1_4:
+z_1_4 = a_1_4_1 + a_1_4_2 + a_1_4_3 + a_1_4_4 + a_1_4_5 + a_1_4_6 + a_1_4_7;
+subject to sum_z_1_5:
+z_1_5 = a_1_5_1 + a_1_5_2 + a_1_5_3 + a_1_5_4 + a_1_5_5 + a_1_5_6 + a_1_5_7;
+subject to sum_z_2_1:
+z_2_1 = a_2_1_1 + a_2_1_2 + a_2_1_3 + a_2_1_4 + a_2_1_5 + a_2_1_6 + a_2_1_7;
+subject to sum_z_2_2:
+z_2_2 = a_2_2_1 + a_2_2_2 + a_2_2_3 + a_2_2_4 + a_2_2_5 + a_2_2_6 + a_2_2_7;
+subject to sum_z_2_3:
+z_2_3 = a_2_3_1 + a_2_3_2 + a_2_3_3 + a_2_3_4 + a_2_3_5 + a_2_3_6 + a_2_3_7;
+subject to sum_z_2_4:
+z_2_4 = a_2_4_1 + a_2_4_2 + a_2_4_3 + a_2_4_4 + a_2_4_5 + a_2_4_6 + a_2_4_7;
+subject to sum_z_2_5:
+z_2_5 = a_2_5_1 + a_2_5_2 + a_2_5_3 + a_2_5_4 + a_2_5_5 + a_2_5_6 + a_2_5_7;
+
+# a constraints
+subject to a_1_1_1_dependency_1: a_1_1_1 <= x_1_1_1;
+subject to a_1_1_1_dependency_2: a_1_1_1 <= x_1_1_2;
+subject to a_1_1_1_dependency_3: a_1_1_1 >= x_1_1_1 + x_1_1_2 - 1;
+
+subject to a_1_1_2_dependency_1: a_1_1_2 <= x_1_1_2;
+subject to a_1_1_2_dependency_2: a_1_1_2 <= x_1_1_3;
+subject to a_1_1_2_dependency_3: a_1_1_2 >= x_1_1_2 + x_1_1_3 - 1;
+
+subject to a_1_1_3_dependency_1: a_1_1_3 <= x_1_1_3;
+subject to a_1_1_3_dependency_2: a_1_1_3 <= x_1_1_4;
+subject to a_1_1_3_dependency_3: a_1_1_3 >= x_1_1_3 + x_1_1_4 - 1;
+
+subject to a_1_1_4_dependency_1: a_1_1_4 <= x_1_1_4;
+subject to a_1_1_4_dependency_2: a_1_1_4 <= x_1_1_5;
+subject to a_1_1_4_dependency_3: a_1_1_4 >= x_1_1_4 + x_1_1_5 - 1;
+
+subject to a_1_1_5_dependency_1: a_1_1_5 <= x_1_1_5;
+subject to a_1_1_5_dependency_2: a_1_1_5 <= x_1_1_6;
+subject to a_1_1_5_dependency_3: a_1_1_5 >= x_1_1_5 + x_1_1_6 - 1;
+
+subject to a_1_1_6_dependency_1: a_1_1_6 <= x_1_1_6;
+subject to a_1_1_6_dependency_2: a_1_1_6 <= x_1_1_7;
+subject to a_1_1_6_dependency_3: a_1_1_6 >= x_1_1_6 + x_1_1_7 - 1;
+
+subject to a_1_1_7_dependency_1: a_1_1_7 <= x_1_1_7;
+subject to a_1_1_7_dependency_2: a_1_1_7 <= x_1_1_8;
+subject to a_1_1_7_dependency_3: a_1_1_7 >= x_1_1_7 + x_1_1_8 - 1;
+
+subject to a_1_2_1_dependency_1: a_1_2_1 <= x_1_2_1;
+subject to a_1_2_1_dependency_2: a_1_2_1 <= x_1_2_2;
+subject to a_1_2_1_dependency_3: a_1_2_1 >= x_1_2_1 + x_1_2_2 - 1;
+
+subject to a_1_2_2_dependency_1: a_1_2_2 <= x_1_2_2;
+subject to a_1_2_2_dependency_2: a_1_2_2 <= x_1_2_3;
+subject to a_1_2_2_dependency_3: a_1_2_2 >= x_1_2_2 + x_1_2_3 - 1;
+
+subject to a_1_2_3_dependency_1: a_1_2_3 <= x_1_2_3;
+subject to a_1_2_3_dependency_2: a_1_2_3 <= x_1_2_4;
+subject to a_1_2_3_dependency_3: a_1_2_3 >= x_1_2_3 + x_1_2_4 - 1;
+
+subject to a_1_2_4_dependency_1: a_1_2_4 <= x_1_2_4;
+subject to a_1_2_4_dependency_2: a_1_2_4 <= x_1_2_5;
+subject to a_1_2_4_dependency_3: a_1_2_4 >= x_1_2_4 + x_1_2_5 - 1;
+
+subject to a_1_2_5_dependency_1: a_1_2_5 <= x_1_2_5;
+subject to a_1_2_5_dependency_2: a_1_2_5 <= x_1_2_6;
+subject to a_1_2_5_dependency_3: a_1_2_5 >= x_1_2_5 + x_1_2_6 - 1;
+
+subject to a_1_2_6_dependency_1: a_1_2_6 <= x_1_2_6;
+subject to a_1_2_6_dependency_2: a_1_2_6 <= x_1_2_7;
+subject to a_1_2_6_dependency_3: a_1_2_6 >= x_1_2_6 + x_1_2_7 - 1;
+
+subject to a_1_2_7_dependency_1: a_1_2_7 <= x_1_2_7;
+subject to a_1_2_7_dependency_2: a_1_2_7 <= x_1_2_8;
+subject to a_1_2_7_dependency_3: a_1_2_7 >= x_1_2_7 + x_1_2_8 - 1;
+
+subject to a_1_3_1_dependency_1: a_1_3_1 <= x_1_3_1;
+subject to a_1_3_1_dependency_2: a_1_3_1 <= x_1_3_2;
+subject to a_1_3_1_dependency_3: a_1_3_1 >= x_1_3_1 + x_1_3_2 - 1;
+
+subject to a_1_3_2_dependency_1: a_1_3_2 <= x_1_3_2;
+subject to a_1_3_2_dependency_2: a_1_3_2 <= x_1_3_3;
+subject to a_1_3_2_dependency_3: a_1_3_2 >= x_1_3_2 + x_1_3_3 - 1;
+
+subject to a_1_3_3_dependency_1: a_1_3_3 <= x_1_3_3;
+subject to a_1_3_3_dependency_2: a_1_3_3 <= x_1_3_4;
+subject to a_1_3_3_dependency_3: a_1_3_3 >= x_1_3_3 + x_1_3_4 - 1;
+
+subject to a_1_3_4_dependency_1: a_1_3_4 <= x_1_3_4;
+subject to a_1_3_4_dependency_2: a_1_3_4 <= x_1_3_5;
+subject to a_1_3_4_dependency_3: a_1_3_4 >= x_1_3_4 + x_1_3_5 - 1;
+
+subject to a_1_3_5_dependency_1: a_1_3_5 <= x_1_3_5;
+subject to a_1_3_5_dependency_2: a_1_3_5 <= x_1_3_6;
+subject to a_1_3_5_dependency_3: a_1_3_5 >= x_1_3_5 + x_1_3_6 - 1;
+
+subject to a_1_3_6_dependency_1: a_1_3_6 <= x_1_3_6;
+subject to a_1_3_6_dependency_2: a_1_3_6 <= x_1_3_7;
+subject to a_1_3_6_dependency_3: a_1_3_6 >= x_1_3_6 + x_1_3_7 - 1;
+
+subject to a_1_3_7_dependency_1: a_1_3_7 <= x_1_3_7;
+subject to a_1_3_7_dependency_2: a_1_3_7 <= x_1_3_8;
+subject to a_1_3_7_dependency_3: a_1_3_7 >= x_1_3_7 + x_1_3_8 - 1;
+
+subject to a_1_4_1_dependency_1: a_1_4_1 <= x_1_4_1;
+subject to a_1_4_1_dependency_2: a_1_4_1 <= x_1_4_2;
+subject to a_1_4_1_dependency_3: a_1_4_1 >= x_1_4_1 + x_1_4_2 - 1;
+
+subject to a_1_4_2_dependency_1: a_1_4_2 <= x_1_4_2;
+subject to a_1_4_2_dependency_2: a_1_4_2 <= x_1_4_3;
+subject to a_1_4_2_dependency_3: a_1_4_2 >= x_1_4_2 + x_1_4_3 - 1;
+
+subject to a_1_4_3_dependency_1: a_1_4_3 <= x_1_4_3;
+subject to a_1_4_3_dependency_2: a_1_4_3 <= x_1_4_4;
+subject to a_1_4_3_dependency_3: a_1_4_3 >= x_1_4_3 + x_1_4_4 - 1;
+
+subject to a_1_4_4_dependency_1: a_1_4_4 <= x_1_4_4;
+subject to a_1_4_4_dependency_2: a_1_4_4 <= x_1_4_5;
+subject to a_1_4_4_dependency_3: a_1_4_4 >= x_1_4_4 + x_1_4_5 - 1;
+
+subject to a_1_4_5_dependency_1: a_1_4_5 <= x_1_4_5;
+subject to a_1_4_5_dependency_2: a_1_4_5 <= x_1_4_6;
+subject to a_1_4_5_dependency_3: a_1_4_5 >= x_1_4_5 + x_1_4_6 - 1;
+
+subject to a_1_4_6_dependency_1: a_1_4_6 <= x_1_4_6;
+subject to a_1_4_6_dependency_2: a_1_4_6 <= x_1_4_7;
+subject to a_1_4_6_dependency_3: a_1_4_6 >= x_1_4_6 + x_1_4_7 - 1;
+
+subject to a_1_4_7_dependency_1: a_1_4_7 <= x_1_4_7;
+subject to a_1_4_7_dependency_2: a_1_4_7 <= x_1_4_8;
+subject to a_1_4_7_dependency_3: a_1_4_7 >= x_1_4_7 + x_1_4_8 - 1;
+
+subject to a_1_5_1_dependency_1: a_1_5_1 <= x_1_5_1;
+subject to a_1_5_1_dependency_2: a_1_5_1 <= x_1_5_2;
+subject to a_1_5_1_dependency_3: a_1_5_1 >= x_1_5_1 + x_1_5_2 - 1;
+
+subject to a_1_5_2_dependency_1: a_1_5_2 <= x_1_5_2;
+subject to a_1_5_2_dependency_2: a_1_5_2 <= x_1_5_3;
+subject to a_1_5_2_dependency_3: a_1_5_2 >= x_1_5_2 + x_1_5_3 - 1;
+
+subject to a_1_5_3_dependency_1: a_1_5_3 <= x_1_5_3;
+subject to a_1_5_3_dependency_2: a_1_5_3 <= x_1_5_4;
+subject to a_1_5_3_dependency_3: a_1_5_3 >= x_1_5_3 + x_1_5_4 - 1;
+
+subject to a_1_5_4_dependency_1: a_1_5_4 <= x_1_5_4;
+subject to a_1_5_4_dependency_2: a_1_5_4 <= x_1_5_5;
+subject to a_1_5_4_dependency_3: a_1_5_4 >= x_1_5_4 + x_1_5_5 - 1;
+
+subject to a_1_5_5_dependency_1: a_1_5_5 <= x_1_5_5;
+subject to a_1_5_5_dependency_2: a_1_5_5 <= x_1_5_6;
+subject to a_1_5_5_dependency_3: a_1_5_5 >= x_1_5_5 + x_1_5_6 - 1;
+
+subject to a_1_5_6_dependency_1: a_1_5_6 <= x_1_5_6;
+subject to a_1_5_6_dependency_2: a_1_5_6 <= x_1_5_7;
+subject to a_1_5_6_dependency_3: a_1_5_6 >= x_1_5_6 + x_1_5_7 - 1;
+
+subject to a_1_5_7_dependency_1: a_1_5_7 <= x_1_5_7;
+subject to a_1_5_7_dependency_2: a_1_5_7 <= x_1_5_8;
+subject to a_1_5_7_dependency_3: a_1_5_7 >= x_1_5_7 + x_1_5_8 - 1;
+
+subject to a_2_1_1_dependency_1: a_2_1_1 <= x_2_1_1;
+subject to a_2_1_1_dependency_2: a_2_1_1 <= x_2_1_2;
+subject to a_2_1_1_dependency_3: a_2_1_1 >= x_2_1_1 + x_2_1_2 - 1;
+
+subject to a_2_1_2_dependency_1: a_2_1_2 <= x_2_1_2;
+subject to a_2_1_2_dependency_2: a_2_1_2 <= x_2_1_3;
+subject to a_2_1_2_dependency_3: a_2_1_2 >= x_2_1_2 + x_2_1_3 - 1;
+
+subject to a_2_1_3_dependency_1: a_2_1_3 <= x_2_1_3;
+subject to a_2_1_3_dependency_2: a_2_1_3 <= x_2_1_4;
+subject to a_2_1_3_dependency_3: a_2_1_3 >= x_2_1_3 + x_2_1_4 - 1;
+
+subject to a_2_1_4_dependency_1: a_2_1_4 <= x_2_1_4;
+subject to a_2_1_4_dependency_2: a_2_1_4 <= x_2_1_5;
+subject to a_2_1_4_dependency_3: a_2_1_4 >= x_2_1_4 + x_2_1_5 - 1;
+
+subject to a_2_1_5_dependency_1: a_2_1_5 <= x_2_1_5;
+subject to a_2_1_5_dependency_2: a_2_1_5 <= x_2_1_6;
+subject to a_2_1_5_dependency_3: a_2_1_5 >= x_2_1_5 + x_2_1_6 - 1;
+
+subject to a_2_1_6_dependency_1: a_2_1_6 <= x_2_1_6;
+subject to a_2_1_6_dependency_2: a_2_1_6 <= x_2_1_7;
+subject to a_2_1_6_dependency_3: a_2_1_6 >= x_2_1_6 + x_2_1_7 - 1;
+
+subject to a_2_1_7_dependency_1: a_2_1_7 <= x_2_1_7;
+subject to a_2_1_7_dependency_2: a_2_1_7 <= x_2_1_8;
+subject to a_2_1_7_dependency_3: a_2_1_7 >= x_2_1_7 + x_2_1_8 - 1;
+
+subject to a_2_2_1_dependency_1: a_2_2_1 <= x_2_2_1;
+subject to a_2_2_1_dependency_2: a_2_2_1 <= x_2_2_2;
+subject to a_2_2_1_dependency_3: a_2_2_1 >= x_2_2_1 + x_2_2_2 - 1;
+
+subject to a_2_2_2_dependency_1: a_2_2_2 <= x_2_2_2;
+subject to a_2_2_2_dependency_2: a_2_2_2 <= x_2_2_3;
+subject to a_2_2_2_dependency_3: a_2_2_2 >= x_2_2_2 + x_2_2_3 - 1;
+
+subject to a_2_2_3_dependency_1: a_2_2_3 <= x_2_2_3;
+subject to a_2_2_3_dependency_2: a_2_2_3 <= x_2_2_4;
+subject to a_2_2_3_dependency_3: a_2_2_3 >= x_2_2_3 + x_2_2_4 - 1;
+
+subject to a_2_2_4_dependency_1: a_2_2_4 <= x_2_2_4;
+subject to a_2_2_4_dependency_2: a_2_2_4 <= x_2_2_5;
+subject to a_2_2_4_dependency_3: a_2_2_4 >= x_2_2_4 + x_2_2_5 - 1;
+
+subject to a_2_2_5_dependency_1: a_2_2_5 <= x_2_2_5;
+subject to a_2_2_5_dependency_2: a_2_2_5 <= x_2_2_6;
+subject to a_2_2_5_dependency_3: a_2_2_5 >= x_2_2_5 + x_2_2_6 - 1;
+
+subject to a_2_2_6_dependency_1: a_2_2_6 <= x_2_2_6;
+subject to a_2_2_6_dependency_2: a_2_2_6 <= x_2_2_7;
+subject to a_2_2_6_dependency_3: a_2_2_6 >= x_2_2_6 + x_2_2_7 - 1;
+
+subject to a_2_2_7_dependency_1: a_2_2_7 <= x_2_2_7;
+subject to a_2_2_7_dependency_2: a_2_2_7 <= x_2_2_8;
+subject to a_2_2_7_dependency_3: a_2_2_7 >= x_2_2_7 + x_2_2_8 - 1;
+
+subject to a_2_3_1_dependency_1: a_2_3_1 <= x_2_3_1;
+subject to a_2_3_1_dependency_2: a_2_3_1 <= x_2_3_2;
+subject to a_2_3_1_dependency_3: a_2_3_1 >= x_2_3_1 + x_2_3_2 - 1;
+
+subject to a_2_3_2_dependency_1: a_2_3_2 <= x_2_3_2;
+subject to a_2_3_2_dependency_2: a_2_3_2 <= x_2_3_3;
+subject to a_2_3_2_dependency_3: a_2_3_2 >= x_2_3_2 + x_2_3_3 - 1;
+
+subject to a_2_3_3_dependency_1: a_2_3_3 <= x_2_3_3;
+subject to a_2_3_3_dependency_2: a_2_3_3 <= x_2_3_4;
+subject to a_2_3_3_dependency_3: a_2_3_3 >= x_2_3_3 + x_2_3_4 - 1;
+
+subject to a_2_3_4_dependency_1: a_2_3_4 <= x_2_3_4;
+subject to a_2_3_4_dependency_2: a_2_3_4 <= x_2_3_5;
+subject to a_2_3_4_dependency_3: a_2_3_4 >= x_2_3_4 + x_2_3_5 - 1;
+
+subject to a_2_3_5_dependency_1: a_2_3_5 <= x_2_3_5;
+subject to a_2_3_5_dependency_2: a_2_3_5 <= x_2_3_6;
+subject to a_2_3_5_dependency_3: a_2_3_5 >= x_2_3_5 + x_2_3_6 - 1;
+
+subject to a_2_3_6_dependency_1: a_2_3_6 <= x_2_3_6;
+subject to a_2_3_6_dependency_2: a_2_3_6 <= x_2_3_7;
+subject to a_2_3_6_dependency_3: a_2_3_6 >= x_2_3_6 + x_2_3_7 - 1;
+
+subject to a_2_3_7_dependency_1: a_2_3_7 <= x_2_3_7;
+subject to a_2_3_7_dependency_2: a_2_3_7 <= x_2_3_8;
+subject to a_2_3_7_dependency_3: a_2_3_7 >= x_2_3_7 + x_2_3_8 - 1;
+
+subject to a_2_4_1_dependency_1: a_2_4_1 <= x_2_4_1;
+subject to a_2_4_1_dependency_2: a_2_4_1 <= x_2_4_2;
+subject to a_2_4_1_dependency_3: a_2_4_1 >= x_2_4_1 + x_2_4_2 - 1;
+
+subject to a_2_4_2_dependency_1: a_2_4_2 <= x_2_4_2;
+subject to a_2_4_2_dependency_2: a_2_4_2 <= x_2_4_3;
+subject to a_2_4_2_dependency_3: a_2_4_2 >= x_2_4_2 + x_2_4_3 - 1;
+
+subject to a_2_4_3_dependency_1: a_2_4_3 <= x_2_4_3;
+subject to a_2_4_3_dependency_2: a_2_4_3 <= x_2_4_4;
+subject to a_2_4_3_dependency_3: a_2_4_3 >= x_2_4_3 + x_2_4_4 - 1;
+
+subject to a_2_4_4_dependency_1: a_2_4_4 <= x_2_4_4;
+subject to a_2_4_4_dependency_2: a_2_4_4 <= x_2_4_5;
+subject to a_2_4_4_dependency_3: a_2_4_4 >= x_2_4_4 + x_2_4_5 - 1;
+
+subject to a_2_4_5_dependency_1: a_2_4_5 <= x_2_4_5;
+subject to a_2_4_5_dependency_2: a_2_4_5 <= x_2_4_6;
+subject to a_2_4_5_dependency_3: a_2_4_5 >= x_2_4_5 + x_2_4_6 - 1;
+
+subject to a_2_4_6_dependency_1: a_2_4_6 <= x_2_4_6;
+subject to a_2_4_6_dependency_2: a_2_4_6 <= x_2_4_7;
+subject to a_2_4_6_dependency_3: a_2_4_6 >= x_2_4_6 + x_2_4_7 - 1;
+
+subject to a_2_4_7_dependency_1: a_2_4_7 <= x_2_4_7;
+subject to a_2_4_7_dependency_2: a_2_4_7 <= x_2_4_8;
+subject to a_2_4_7_dependency_3: a_2_4_7 >= x_2_4_7 + x_2_4_8 - 1;
+
+subject to a_2_5_1_dependency_1: a_2_5_1 <= x_2_5_1;
+subject to a_2_5_1_dependency_2: a_2_5_1 <= x_2_5_2;
+subject to a_2_5_1_dependency_3: a_2_5_1 >= x_2_5_1 + x_2_5_2 - 1;
+
+subject to a_2_5_2_dependency_1: a_2_5_2 <= x_2_5_2;
+subject to a_2_5_2_dependency_2: a_2_5_2 <= x_2_5_3;
+subject to a_2_5_2_dependency_3: a_2_5_2 >= x_2_5_2 + x_2_5_3 - 1;
+
+subject to a_2_5_3_dependency_1: a_2_5_3 <= x_2_5_3;
+subject to a_2_5_3_dependency_2: a_2_5_3 <= x_2_5_4;
+subject to a_2_5_3_dependency_3: a_2_5_3 >= x_2_5_3 + x_2_5_4 - 1;
+
+subject to a_2_5_4_dependency_1: a_2_5_4 <= x_2_5_4;
+subject to a_2_5_4_dependency_2: a_2_5_4 <= x_2_5_5;
+subject to a_2_5_4_dependency_3: a_2_5_4 >= x_2_5_4 + x_2_5_5 - 1;
+
+subject to a_2_5_5_dependency_1: a_2_5_5 <= x_2_5_5;
+subject to a_2_5_5_dependency_2: a_2_5_5 <= x_2_5_6;
+subject to a_2_5_5_dependency_3: a_2_5_5 >= x_2_5_5 + x_2_5_6 - 1;
+
+subject to a_2_5_6_dependency_1: a_2_5_6 <= x_2_5_6;
+subject to a_2_5_6_dependency_2: a_2_5_6 <= x_2_5_7;
+subject to a_2_5_6_dependency_3: a_2_5_6 >= x_2_5_6 + x_2_5_7 - 1;
+
+subject to a_2_5_7_dependency_1: a_2_5_7 <= x_2_5_7;
+subject to a_2_5_7_dependency_2: a_2_5_7 <= x_2_5_8;
+subject to a_2_5_7_dependency_3: a_2_5_7 >= x_2_5_7 + x_2_5_8 - 1;
+
+
+# y constraints
+subject to y_1_2_1_dependency_1: y_1_2_1 <= y_1_1_1;
+subject to y_1_2_1_dependency_2: y_1_2_1 <= y_1_1_2;
+subject to y_1_2_1_dependency_3: y_1_2_1 <= y_1_1_3;
+subject to y_1_2_1_dependency_4: y_1_2_1 <= y_1_1_4;
+subject to y_1_2_1_dependency_5: y_1_2_1 <= y_1_1_5;
+subject to y_1_2_1_dependency_6: y_1_2_1 <= y_1_1_6;
+subject to y_1_2_1_dependency_7: y_1_2_1 <= y_1_1_7;
+subject to y_1_2_1_dependency_8: y_1_2_1 <= y_1_1_8;
+
+subject to y_1_2_2_dependency_1: y_1_2_2 <= y_1_1_1;
+subject to y_1_2_2_dependency_2: y_1_2_2 <= y_1_1_2;
+subject to y_1_2_2_dependency_3: y_1_2_2 <= y_1_1_3;
+subject to y_1_2_2_dependency_4: y_1_2_2 <= y_1_1_4;
+subject to y_1_2_2_dependency_5: y_1_2_2 <= y_1_1_5;
+subject to y_1_2_2_dependency_6: y_1_2_2 <= y_1_1_6;
+subject to y_1_2_2_dependency_7: y_1_2_2 <= y_1_1_7;
+subject to y_1_2_2_dependency_8: y_1_2_2 <= y_1_1_8;
+
+subject to y_1_2_3_dependency_1: y_1_2_3 <= y_1_1_1;
+subject to y_1_2_3_dependency_2: y_1_2_3 <= y_1_1_2;
+subject to y_1_2_3_dependency_3: y_1_2_3 <= y_1_1_3;
+subject to y_1_2_3_dependency_4: y_1_2_3 <= y_1_1_4;
+subject to y_1_2_3_dependency_5: y_1_2_3 <= y_1_1_5;
+subject to y_1_2_3_dependency_6: y_1_2_3 <= y_1_1_6;
+subject to y_1_2_3_dependency_7: y_1_2_3 <= y_1_1_7;
+subject to y_1_2_3_dependency_8: y_1_2_3 <= y_1_1_8;
+
+subject to y_1_2_4_dependency_1: y_1_2_4 <= y_1_1_1;
+subject to y_1_2_4_dependency_2: y_1_2_4 <= y_1_1_2;
+subject to y_1_2_4_dependency_3: y_1_2_4 <= y_1_1_3;
+subject to y_1_2_4_dependency_4: y_1_2_4 <= y_1_1_4;
+subject to y_1_2_4_dependency_5: y_1_2_4 <= y_1_1_5;
+subject to y_1_2_4_dependency_6: y_1_2_4 <= y_1_1_6;
+subject to y_1_2_4_dependency_7: y_1_2_4 <= y_1_1_7;
+subject to y_1_2_4_dependency_8: y_1_2_4 <= y_1_1_8;
+
+subject to y_1_2_5_dependency_1: y_1_2_5 <= y_1_1_1;
+subject to y_1_2_5_dependency_2: y_1_2_5 <= y_1_1_2;
+subject to y_1_2_5_dependency_3: y_1_2_5 <= y_1_1_3;
+subject to y_1_2_5_dependency_4: y_1_2_5 <= y_1_1_4;
+subject to y_1_2_5_dependency_5: y_1_2_5 <= y_1_1_5;
+subject to y_1_2_5_dependency_6: y_1_2_5 <= y_1_1_6;
+subject to y_1_2_5_dependency_7: y_1_2_5 <= y_1_1_7;
+subject to y_1_2_5_dependency_8: y_1_2_5 <= y_1_1_8;
+
+subject to y_1_2_6_dependency_1: y_1_2_6 <= y_1_1_1;
+subject to y_1_2_6_dependency_2: y_1_2_6 <= y_1_1_2;
+subject to y_1_2_6_dependency_3: y_1_2_6 <= y_1_1_3;
+subject to y_1_2_6_dependency_4: y_1_2_6 <= y_1_1_4;
+subject to y_1_2_6_dependency_5: y_1_2_6 <= y_1_1_5;
+subject to y_1_2_6_dependency_6: y_1_2_6 <= y_1_1_6;
+subject to y_1_2_6_dependency_7: y_1_2_6 <= y_1_1_7;
+subject to y_1_2_6_dependency_8: y_1_2_6 <= y_1_1_8;
+
+subject to y_1_2_7_dependency_1: y_1_2_7 <= y_1_1_1;
+subject to y_1_2_7_dependency_2: y_1_2_7 <= y_1_1_2;
+subject to y_1_2_7_dependency_3: y_1_2_7 <= y_1_1_3;
+subject to y_1_2_7_dependency_4: y_1_2_7 <= y_1_1_4;
+subject to y_1_2_7_dependency_5: y_1_2_7 <= y_1_1_5;
+subject to y_1_2_7_dependency_6: y_1_2_7 <= y_1_1_6;
+subject to y_1_2_7_dependency_7: y_1_2_7 <= y_1_1_7;
+subject to y_1_2_7_dependency_8: y_1_2_7 <= y_1_1_8;
+
+subject to y_1_2_8_dependency_1: y_1_2_8 <= y_1_1_1;
+subject to y_1_2_8_dependency_2: y_1_2_8 <= y_1_1_2;
+subject to y_1_2_8_dependency_3: y_1_2_8 <= y_1_1_3;
+subject to y_1_2_8_dependency_4: y_1_2_8 <= y_1_1_4;
+subject to y_1_2_8_dependency_5: y_1_2_8 <= y_1_1_5;
+subject to y_1_2_8_dependency_6: y_1_2_8 <= y_1_1_6;
+subject to y_1_2_8_dependency_7: y_1_2_8 <= y_1_1_7;
+subject to y_1_2_8_dependency_8: y_1_2_8 <= y_1_1_8;
+
+subject to y_1_3_1_dependency_1: y_1_3_1 <= y_1_2_1;
+subject to y_1_3_1_dependency_2: y_1_3_1 <= y_1_2_2;
+subject to y_1_3_1_dependency_3: y_1_3_1 <= y_1_2_3;
+subject to y_1_3_1_dependency_4: y_1_3_1 <= y_1_2_4;
+subject to y_1_3_1_dependency_5: y_1_3_1 <= y_1_2_5;
+subject to y_1_3_1_dependency_6: y_1_3_1 <= y_1_2_6;
+subject to y_1_3_1_dependency_7: y_1_3_1 <= y_1_2_7;
+subject to y_1_3_1_dependency_8: y_1_3_1 <= y_1_2_8;
+
+subject to y_1_3_2_dependency_1: y_1_3_2 <= y_1_2_1;
+subject to y_1_3_2_dependency_2: y_1_3_2 <= y_1_2_2;
+subject to y_1_3_2_dependency_3: y_1_3_2 <= y_1_2_3;
+subject to y_1_3_2_dependency_4: y_1_3_2 <= y_1_2_4;
+subject to y_1_3_2_dependency_5: y_1_3_2 <= y_1_2_5;
+subject to y_1_3_2_dependency_6: y_1_3_2 <= y_1_2_6;
+subject to y_1_3_2_dependency_7: y_1_3_2 <= y_1_2_7;
+subject to y_1_3_2_dependency_8: y_1_3_2 <= y_1_2_8;
+
+subject to y_1_3_3_dependency_1: y_1_3_3 <= y_1_2_1;
+subject to y_1_3_3_dependency_2: y_1_3_3 <= y_1_2_2;
+subject to y_1_3_3_dependency_3: y_1_3_3 <= y_1_2_3;
+subject to y_1_3_3_dependency_4: y_1_3_3 <= y_1_2_4;
+subject to y_1_3_3_dependency_5: y_1_3_3 <= y_1_2_5;
+subject to y_1_3_3_dependency_6: y_1_3_3 <= y_1_2_6;
+subject to y_1_3_3_dependency_7: y_1_3_3 <= y_1_2_7;
+subject to y_1_3_3_dependency_8: y_1_3_3 <= y_1_2_8;
+
+subject to y_1_3_4_dependency_1: y_1_3_4 <= y_1_2_1;
+subject to y_1_3_4_dependency_2: y_1_3_4 <= y_1_2_2;
+subject to y_1_3_4_dependency_3: y_1_3_4 <= y_1_2_3;
+subject to y_1_3_4_dependency_4: y_1_3_4 <= y_1_2_4;
+subject to y_1_3_4_dependency_5: y_1_3_4 <= y_1_2_5;
+subject to y_1_3_4_dependency_6: y_1_3_4 <= y_1_2_6;
+subject to y_1_3_4_dependency_7: y_1_3_4 <= y_1_2_7;
+subject to y_1_3_4_dependency_8: y_1_3_4 <= y_1_2_8;
+
+subject to y_1_3_5_dependency_1: y_1_3_5 <= y_1_2_1;
+subject to y_1_3_5_dependency_2: y_1_3_5 <= y_1_2_2;
+subject to y_1_3_5_dependency_3: y_1_3_5 <= y_1_2_3;
+subject to y_1_3_5_dependency_4: y_1_3_5 <= y_1_2_4;
+subject to y_1_3_5_dependency_5: y_1_3_5 <= y_1_2_5;
+subject to y_1_3_5_dependency_6: y_1_3_5 <= y_1_2_6;
+subject to y_1_3_5_dependency_7: y_1_3_5 <= y_1_2_7;
+subject to y_1_3_5_dependency_8: y_1_3_5 <= y_1_2_8;
+
+subject to y_1_3_6_dependency_1: y_1_3_6 <= y_1_2_1;
+subject to y_1_3_6_dependency_2: y_1_3_6 <= y_1_2_2;
+subject to y_1_3_6_dependency_3: y_1_3_6 <= y_1_2_3;
+subject to y_1_3_6_dependency_4: y_1_3_6 <= y_1_2_4;
+subject to y_1_3_6_dependency_5: y_1_3_6 <= y_1_2_5;
+subject to y_1_3_6_dependency_6: y_1_3_6 <= y_1_2_6;
+subject to y_1_3_6_dependency_7: y_1_3_6 <= y_1_2_7;
+subject to y_1_3_6_dependency_8: y_1_3_6 <= y_1_2_8;
+
+subject to y_1_3_7_dependency_1: y_1_3_7 <= y_1_2_1;
+subject to y_1_3_7_dependency_2: y_1_3_7 <= y_1_2_2;
+subject to y_1_3_7_dependency_3: y_1_3_7 <= y_1_2_3;
+subject to y_1_3_7_dependency_4: y_1_3_7 <= y_1_2_4;
+subject to y_1_3_7_dependency_5: y_1_3_7 <= y_1_2_5;
+subject to y_1_3_7_dependency_6: y_1_3_7 <= y_1_2_6;
+subject to y_1_3_7_dependency_7: y_1_3_7 <= y_1_2_7;
+subject to y_1_3_7_dependency_8: y_1_3_7 <= y_1_2_8;
+
+subject to y_1_3_8_dependency_1: y_1_3_8 <= y_1_2_1;
+subject to y_1_3_8_dependency_2: y_1_3_8 <= y_1_2_2;
+subject to y_1_3_8_dependency_3: y_1_3_8 <= y_1_2_3;
+subject to y_1_3_8_dependency_4: y_1_3_8 <= y_1_2_4;
+subject to y_1_3_8_dependency_5: y_1_3_8 <= y_1_2_5;
+subject to y_1_3_8_dependency_6: y_1_3_8 <= y_1_2_6;
+subject to y_1_3_8_dependency_7: y_1_3_8 <= y_1_2_7;
+subject to y_1_3_8_dependency_8: y_1_3_8 <= y_1_2_8;
+
+subject to y_1_4_1_dependency_1: y_1_4_1 <= y_1_3_1;
+subject to y_1_4_1_dependency_2: y_1_4_1 <= y_1_3_2;
+subject to y_1_4_1_dependency_3: y_1_4_1 <= y_1_3_3;
+subject to y_1_4_1_dependency_4: y_1_4_1 <= y_1_3_4;
+subject to y_1_4_1_dependency_5: y_1_4_1 <= y_1_3_5;
+subject to y_1_4_1_dependency_6: y_1_4_1 <= y_1_3_6;
+subject to y_1_4_1_dependency_7: y_1_4_1 <= y_1_3_7;
+subject to y_1_4_1_dependency_8: y_1_4_1 <= y_1_3_8;
+
+subject to y_1_4_2_dependency_1: y_1_4_2 <= y_1_3_1;
+subject to y_1_4_2_dependency_2: y_1_4_2 <= y_1_3_2;
+subject to y_1_4_2_dependency_3: y_1_4_2 <= y_1_3_3;
+subject to y_1_4_2_dependency_4: y_1_4_2 <= y_1_3_4;
+subject to y_1_4_2_dependency_5: y_1_4_2 <= y_1_3_5;
+subject to y_1_4_2_dependency_6: y_1_4_2 <= y_1_3_6;
+subject to y_1_4_2_dependency_7: y_1_4_2 <= y_1_3_7;
+subject to y_1_4_2_dependency_8: y_1_4_2 <= y_1_3_8;
+
+subject to y_1_4_3_dependency_1: y_1_4_3 <= y_1_3_1;
+subject to y_1_4_3_dependency_2: y_1_4_3 <= y_1_3_2;
+subject to y_1_4_3_dependency_3: y_1_4_3 <= y_1_3_3;
+subject to y_1_4_3_dependency_4: y_1_4_3 <= y_1_3_4;
+subject to y_1_4_3_dependency_5: y_1_4_3 <= y_1_3_5;
+subject to y_1_4_3_dependency_6: y_1_4_3 <= y_1_3_6;
+subject to y_1_4_3_dependency_7: y_1_4_3 <= y_1_3_7;
+subject to y_1_4_3_dependency_8: y_1_4_3 <= y_1_3_8;
+
+subject to y_1_4_4_dependency_1: y_1_4_4 <= y_1_3_1;
+subject to y_1_4_4_dependency_2: y_1_4_4 <= y_1_3_2;
+subject to y_1_4_4_dependency_3: y_1_4_4 <= y_1_3_3;
+subject to y_1_4_4_dependency_4: y_1_4_4 <= y_1_3_4;
+subject to y_1_4_4_dependency_5: y_1_4_4 <= y_1_3_5;
+subject to y_1_4_4_dependency_6: y_1_4_4 <= y_1_3_6;
+subject to y_1_4_4_dependency_7: y_1_4_4 <= y_1_3_7;
+subject to y_1_4_4_dependency_8: y_1_4_4 <= y_1_3_8;
+
+subject to y_1_4_5_dependency_1: y_1_4_5 <= y_1_3_1;
+subject to y_1_4_5_dependency_2: y_1_4_5 <= y_1_3_2;
+subject to y_1_4_5_dependency_3: y_1_4_5 <= y_1_3_3;
+subject to y_1_4_5_dependency_4: y_1_4_5 <= y_1_3_4;
+subject to y_1_4_5_dependency_5: y_1_4_5 <= y_1_3_5;
+subject to y_1_4_5_dependency_6: y_1_4_5 <= y_1_3_6;
+subject to y_1_4_5_dependency_7: y_1_4_5 <= y_1_3_7;
+subject to y_1_4_5_dependency_8: y_1_4_5 <= y_1_3_8;
+
+subject to y_1_4_6_dependency_1: y_1_4_6 <= y_1_3_1;
+subject to y_1_4_6_dependency_2: y_1_4_6 <= y_1_3_2;
+subject to y_1_4_6_dependency_3: y_1_4_6 <= y_1_3_3;
+subject to y_1_4_6_dependency_4: y_1_4_6 <= y_1_3_4;
+subject to y_1_4_6_dependency_5: y_1_4_6 <= y_1_3_5;
+subject to y_1_4_6_dependency_6: y_1_4_6 <= y_1_3_6;
+subject to y_1_4_6_dependency_7: y_1_4_6 <= y_1_3_7;
+subject to y_1_4_6_dependency_8: y_1_4_6 <= y_1_3_8;
+
+subject to y_1_4_7_dependency_1: y_1_4_7 <= y_1_3_1;
+subject to y_1_4_7_dependency_2: y_1_4_7 <= y_1_3_2;
+subject to y_1_4_7_dependency_3: y_1_4_7 <= y_1_3_3;
+subject to y_1_4_7_dependency_4: y_1_4_7 <= y_1_3_4;
+subject to y_1_4_7_dependency_5: y_1_4_7 <= y_1_3_5;
+subject to y_1_4_7_dependency_6: y_1_4_7 <= y_1_3_6;
+subject to y_1_4_7_dependency_7: y_1_4_7 <= y_1_3_7;
+subject to y_1_4_7_dependency_8: y_1_4_7 <= y_1_3_8;
+
+subject to y_1_4_8_dependency_1: y_1_4_8 <= y_1_3_1;
+subject to y_1_4_8_dependency_2: y_1_4_8 <= y_1_3_2;
+subject to y_1_4_8_dependency_3: y_1_4_8 <= y_1_3_3;
+subject to y_1_4_8_dependency_4: y_1_4_8 <= y_1_3_4;
+subject to y_1_4_8_dependency_5: y_1_4_8 <= y_1_3_5;
+subject to y_1_4_8_dependency_6: y_1_4_8 <= y_1_3_6;
+subject to y_1_4_8_dependency_7: y_1_4_8 <= y_1_3_7;
+subject to y_1_4_8_dependency_8: y_1_4_8 <= y_1_3_8;
+
+subject to y_1_5_1_dependency_1: y_1_5_1 <= y_1_4_1;
+subject to y_1_5_1_dependency_2: y_1_5_1 <= y_1_4_2;
+subject to y_1_5_1_dependency_3: y_1_5_1 <= y_1_4_3;
+subject to y_1_5_1_dependency_4: y_1_5_1 <= y_1_4_4;
+subject to y_1_5_1_dependency_5: y_1_5_1 <= y_1_4_5;
+subject to y_1_5_1_dependency_6: y_1_5_1 <= y_1_4_6;
+subject to y_1_5_1_dependency_7: y_1_5_1 <= y_1_4_7;
+subject to y_1_5_1_dependency_8: y_1_5_1 <= y_1_4_8;
+
+subject to y_1_5_2_dependency_1: y_1_5_2 <= y_1_4_1;
+subject to y_1_5_2_dependency_2: y_1_5_2 <= y_1_4_2;
+subject to y_1_5_2_dependency_3: y_1_5_2 <= y_1_4_3;
+subject to y_1_5_2_dependency_4: y_1_5_2 <= y_1_4_4;
+subject to y_1_5_2_dependency_5: y_1_5_2 <= y_1_4_5;
+subject to y_1_5_2_dependency_6: y_1_5_2 <= y_1_4_6;
+subject to y_1_5_2_dependency_7: y_1_5_2 <= y_1_4_7;
+subject to y_1_5_2_dependency_8: y_1_5_2 <= y_1_4_8;
+
+subject to y_1_5_3_dependency_1: y_1_5_3 <= y_1_4_1;
+subject to y_1_5_3_dependency_2: y_1_5_3 <= y_1_4_2;
+subject to y_1_5_3_dependency_3: y_1_5_3 <= y_1_4_3;
+subject to y_1_5_3_dependency_4: y_1_5_3 <= y_1_4_4;
+subject to y_1_5_3_dependency_5: y_1_5_3 <= y_1_4_5;
+subject to y_1_5_3_dependency_6: y_1_5_3 <= y_1_4_6;
+subject to y_1_5_3_dependency_7: y_1_5_3 <= y_1_4_7;
+subject to y_1_5_3_dependency_8: y_1_5_3 <= y_1_4_8;
+
+subject to y_1_5_4_dependency_1: y_1_5_4 <= y_1_4_1;
+subject to y_1_5_4_dependency_2: y_1_5_4 <= y_1_4_2;
+subject to y_1_5_4_dependency_3: y_1_5_4 <= y_1_4_3;
+subject to y_1_5_4_dependency_4: y_1_5_4 <= y_1_4_4;
+subject to y_1_5_4_dependency_5: y_1_5_4 <= y_1_4_5;
+subject to y_1_5_4_dependency_6: y_1_5_4 <= y_1_4_6;
+subject to y_1_5_4_dependency_7: y_1_5_4 <= y_1_4_7;
+subject to y_1_5_4_dependency_8: y_1_5_4 <= y_1_4_8;
+
+subject to y_1_5_5_dependency_1: y_1_5_5 <= y_1_4_1;
+subject to y_1_5_5_dependency_2: y_1_5_5 <= y_1_4_2;
+subject to y_1_5_5_dependency_3: y_1_5_5 <= y_1_4_3;
+subject to y_1_5_5_dependency_4: y_1_5_5 <= y_1_4_4;
+subject to y_1_5_5_dependency_5: y_1_5_5 <= y_1_4_5;
+subject to y_1_5_5_dependency_6: y_1_5_5 <= y_1_4_6;
+subject to y_1_5_5_dependency_7: y_1_5_5 <= y_1_4_7;
+subject to y_1_5_5_dependency_8: y_1_5_5 <= y_1_4_8;
+
+subject to y_1_5_6_dependency_1: y_1_5_6 <= y_1_4_1;
+subject to y_1_5_6_dependency_2: y_1_5_6 <= y_1_4_2;
+subject to y_1_5_6_dependency_3: y_1_5_6 <= y_1_4_3;
+subject to y_1_5_6_dependency_4: y_1_5_6 <= y_1_4_4;
+subject to y_1_5_6_dependency_5: y_1_5_6 <= y_1_4_5;
+subject to y_1_5_6_dependency_6: y_1_5_6 <= y_1_4_6;
+subject to y_1_5_6_dependency_7: y_1_5_6 <= y_1_4_7;
+subject to y_1_5_6_dependency_8: y_1_5_6 <= y_1_4_8;
+
+subject to y_1_5_7_dependency_1: y_1_5_7 <= y_1_4_1;
+subject to y_1_5_7_dependency_2: y_1_5_7 <= y_1_4_2;
+subject to y_1_5_7_dependency_3: y_1_5_7 <= y_1_4_3;
+subject to y_1_5_7_dependency_4: y_1_5_7 <= y_1_4_4;
+subject to y_1_5_7_dependency_5: y_1_5_7 <= y_1_4_5;
+subject to y_1_5_7_dependency_6: y_1_5_7 <= y_1_4_6;
+subject to y_1_5_7_dependency_7: y_1_5_7 <= y_1_4_7;
+subject to y_1_5_7_dependency_8: y_1_5_7 <= y_1_4_8;
+
+subject to y_1_5_8_dependency_1: y_1_5_8 <= y_1_4_1;
+subject to y_1_5_8_dependency_2: y_1_5_8 <= y_1_4_2;
+subject to y_1_5_8_dependency_3: y_1_5_8 <= y_1_4_3;
+subject to y_1_5_8_dependency_4: y_1_5_8 <= y_1_4_4;
+subject to y_1_5_8_dependency_5: y_1_5_8 <= y_1_4_5;
+subject to y_1_5_8_dependency_6: y_1_5_8 <= y_1_4_6;
+subject to y_1_5_8_dependency_7: y_1_5_8 <= y_1_4_7;
+subject to y_1_5_8_dependency_8: y_1_5_8 <= y_1_4_8;
+
+subject to y_2_2_1_dependency_1: y_2_2_1 <= y_2_1_1;
+subject to y_2_2_1_dependency_2: y_2_2_1 <= y_2_1_2;
+subject to y_2_2_1_dependency_3: y_2_2_1 <= y_2_1_3;
+subject to y_2_2_1_dependency_4: y_2_2_1 <= y_2_1_4;
+subject to y_2_2_1_dependency_5: y_2_2_1 <= y_2_1_5;
+subject to y_2_2_1_dependency_6: y_2_2_1 <= y_2_1_6;
+subject to y_2_2_1_dependency_7: y_2_2_1 <= y_2_1_7;
+subject to y_2_2_1_dependency_8: y_2_2_1 <= y_2_1_8;
+
+subject to y_2_2_2_dependency_1: y_2_2_2 <= y_2_1_1;
+subject to y_2_2_2_dependency_2: y_2_2_2 <= y_2_1_2;
+subject to y_2_2_2_dependency_3: y_2_2_2 <= y_2_1_3;
+subject to y_2_2_2_dependency_4: y_2_2_2 <= y_2_1_4;
+subject to y_2_2_2_dependency_5: y_2_2_2 <= y_2_1_5;
+subject to y_2_2_2_dependency_6: y_2_2_2 <= y_2_1_6;
+subject to y_2_2_2_dependency_7: y_2_2_2 <= y_2_1_7;
+subject to y_2_2_2_dependency_8: y_2_2_2 <= y_2_1_8;
+
+subject to y_2_2_3_dependency_1: y_2_2_3 <= y_2_1_1;
+subject to y_2_2_3_dependency_2: y_2_2_3 <= y_2_1_2;
+subject to y_2_2_3_dependency_3: y_2_2_3 <= y_2_1_3;
+subject to y_2_2_3_dependency_4: y_2_2_3 <= y_2_1_4;
+subject to y_2_2_3_dependency_5: y_2_2_3 <= y_2_1_5;
+subject to y_2_2_3_dependency_6: y_2_2_3 <= y_2_1_6;
+subject to y_2_2_3_dependency_7: y_2_2_3 <= y_2_1_7;
+subject to y_2_2_3_dependency_8: y_2_2_3 <= y_2_1_8;
+
+subject to y_2_2_4_dependency_1: y_2_2_4 <= y_2_1_1;
+subject to y_2_2_4_dependency_2: y_2_2_4 <= y_2_1_2;
+subject to y_2_2_4_dependency_3: y_2_2_4 <= y_2_1_3;
+subject to y_2_2_4_dependency_4: y_2_2_4 <= y_2_1_4;
+subject to y_2_2_4_dependency_5: y_2_2_4 <= y_2_1_5;
+subject to y_2_2_4_dependency_6: y_2_2_4 <= y_2_1_6;
+subject to y_2_2_4_dependency_7: y_2_2_4 <= y_2_1_7;
+subject to y_2_2_4_dependency_8: y_2_2_4 <= y_2_1_8;
+
+subject to y_2_2_5_dependency_1: y_2_2_5 <= y_2_1_1;
+subject to y_2_2_5_dependency_2: y_2_2_5 <= y_2_1_2;
+subject to y_2_2_5_dependency_3: y_2_2_5 <= y_2_1_3;
+subject to y_2_2_5_dependency_4: y_2_2_5 <= y_2_1_4;
+subject to y_2_2_5_dependency_5: y_2_2_5 <= y_2_1_5;
+subject to y_2_2_5_dependency_6: y_2_2_5 <= y_2_1_6;
+subject to y_2_2_5_dependency_7: y_2_2_5 <= y_2_1_7;
+subject to y_2_2_5_dependency_8: y_2_2_5 <= y_2_1_8;
+
+subject to y_2_2_6_dependency_1: y_2_2_6 <= y_2_1_1;
+subject to y_2_2_6_dependency_2: y_2_2_6 <= y_2_1_2;
+subject to y_2_2_6_dependency_3: y_2_2_6 <= y_2_1_3;
+subject to y_2_2_6_dependency_4: y_2_2_6 <= y_2_1_4;
+subject to y_2_2_6_dependency_5: y_2_2_6 <= y_2_1_5;
+subject to y_2_2_6_dependency_6: y_2_2_6 <= y_2_1_6;
+subject to y_2_2_6_dependency_7: y_2_2_6 <= y_2_1_7;
+subject to y_2_2_6_dependency_8: y_2_2_6 <= y_2_1_8;
+
+subject to y_2_2_7_dependency_1: y_2_2_7 <= y_2_1_1;
+subject to y_2_2_7_dependency_2: y_2_2_7 <= y_2_1_2;
+subject to y_2_2_7_dependency_3: y_2_2_7 <= y_2_1_3;
+subject to y_2_2_7_dependency_4: y_2_2_7 <= y_2_1_4;
+subject to y_2_2_7_dependency_5: y_2_2_7 <= y_2_1_5;
+subject to y_2_2_7_dependency_6: y_2_2_7 <= y_2_1_6;
+subject to y_2_2_7_dependency_7: y_2_2_7 <= y_2_1_7;
+subject to y_2_2_7_dependency_8: y_2_2_7 <= y_2_1_8;
+
+subject to y_2_2_8_dependency_1: y_2_2_8 <= y_2_1_1;
+subject to y_2_2_8_dependency_2: y_2_2_8 <= y_2_1_2;
+subject to y_2_2_8_dependency_3: y_2_2_8 <= y_2_1_3;
+subject to y_2_2_8_dependency_4: y_2_2_8 <= y_2_1_4;
+subject to y_2_2_8_dependency_5: y_2_2_8 <= y_2_1_5;
+subject to y_2_2_8_dependency_6: y_2_2_8 <= y_2_1_6;
+subject to y_2_2_8_dependency_7: y_2_2_8 <= y_2_1_7;
+subject to y_2_2_8_dependency_8: y_2_2_8 <= y_2_1_8;
+
+subject to y_2_3_1_dependency_1: y_2_3_1 <= y_2_2_1;
+subject to y_2_3_1_dependency_2: y_2_3_1 <= y_2_2_2;
+subject to y_2_3_1_dependency_3: y_2_3_1 <= y_2_2_3;
+subject to y_2_3_1_dependency_4: y_2_3_1 <= y_2_2_4;
+subject to y_2_3_1_dependency_5: y_2_3_1 <= y_2_2_5;
+subject to y_2_3_1_dependency_6: y_2_3_1 <= y_2_2_6;
+subject to y_2_3_1_dependency_7: y_2_3_1 <= y_2_2_7;
+subject to y_2_3_1_dependency_8: y_2_3_1 <= y_2_2_8;
+
+subject to y_2_3_2_dependency_1: y_2_3_2 <= y_2_2_1;
+subject to y_2_3_2_dependency_2: y_2_3_2 <= y_2_2_2;
+subject to y_2_3_2_dependency_3: y_2_3_2 <= y_2_2_3;
+subject to y_2_3_2_dependency_4: y_2_3_2 <= y_2_2_4;
+subject to y_2_3_2_dependency_5: y_2_3_2 <= y_2_2_5;
+subject to y_2_3_2_dependency_6: y_2_3_2 <= y_2_2_6;
+subject to y_2_3_2_dependency_7: y_2_3_2 <= y_2_2_7;
+subject to y_2_3_2_dependency_8: y_2_3_2 <= y_2_2_8;
+
+subject to y_2_3_3_dependency_1: y_2_3_3 <= y_2_2_1;
+subject to y_2_3_3_dependency_2: y_2_3_3 <= y_2_2_2;
+subject to y_2_3_3_dependency_3: y_2_3_3 <= y_2_2_3;
+subject to y_2_3_3_dependency_4: y_2_3_3 <= y_2_2_4;
+subject to y_2_3_3_dependency_5: y_2_3_3 <= y_2_2_5;
+subject to y_2_3_3_dependency_6: y_2_3_3 <= y_2_2_6;
+subject to y_2_3_3_dependency_7: y_2_3_3 <= y_2_2_7;
+subject to y_2_3_3_dependency_8: y_2_3_3 <= y_2_2_8;
+
+subject to y_2_3_4_dependency_1: y_2_3_4 <= y_2_2_1;
+subject to y_2_3_4_dependency_2: y_2_3_4 <= y_2_2_2;
+subject to y_2_3_4_dependency_3: y_2_3_4 <= y_2_2_3;
+subject to y_2_3_4_dependency_4: y_2_3_4 <= y_2_2_4;
+subject to y_2_3_4_dependency_5: y_2_3_4 <= y_2_2_5;
+subject to y_2_3_4_dependency_6: y_2_3_4 <= y_2_2_6;
+subject to y_2_3_4_dependency_7: y_2_3_4 <= y_2_2_7;
+subject to y_2_3_4_dependency_8: y_2_3_4 <= y_2_2_8;
+
+subject to y_2_3_5_dependency_1: y_2_3_5 <= y_2_2_1;
+subject to y_2_3_5_dependency_2: y_2_3_5 <= y_2_2_2;
+subject to y_2_3_5_dependency_3: y_2_3_5 <= y_2_2_3;
+subject to y_2_3_5_dependency_4: y_2_3_5 <= y_2_2_4;
+subject to y_2_3_5_dependency_5: y_2_3_5 <= y_2_2_5;
+subject to y_2_3_5_dependency_6: y_2_3_5 <= y_2_2_6;
+subject to y_2_3_5_dependency_7: y_2_3_5 <= y_2_2_7;
+subject to y_2_3_5_dependency_8: y_2_3_5 <= y_2_2_8;
+
+subject to y_2_3_6_dependency_1: y_2_3_6 <= y_2_2_1;
+subject to y_2_3_6_dependency_2: y_2_3_6 <= y_2_2_2;
+subject to y_2_3_6_dependency_3: y_2_3_6 <= y_2_2_3;
+subject to y_2_3_6_dependency_4: y_2_3_6 <= y_2_2_4;
+subject to y_2_3_6_dependency_5: y_2_3_6 <= y_2_2_5;
+subject to y_2_3_6_dependency_6: y_2_3_6 <= y_2_2_6;
+subject to y_2_3_6_dependency_7: y_2_3_6 <= y_2_2_7;
+subject to y_2_3_6_dependency_8: y_2_3_6 <= y_2_2_8;
+
+subject to y_2_3_7_dependency_1: y_2_3_7 <= y_2_2_1;
+subject to y_2_3_7_dependency_2: y_2_3_7 <= y_2_2_2;
+subject to y_2_3_7_dependency_3: y_2_3_7 <= y_2_2_3;
+subject to y_2_3_7_dependency_4: y_2_3_7 <= y_2_2_4;
+subject to y_2_3_7_dependency_5: y_2_3_7 <= y_2_2_5;
+subject to y_2_3_7_dependency_6: y_2_3_7 <= y_2_2_6;
+subject to y_2_3_7_dependency_7: y_2_3_7 <= y_2_2_7;
+subject to y_2_3_7_dependency_8: y_2_3_7 <= y_2_2_8;
+
+subject to y_2_3_8_dependency_1: y_2_3_8 <= y_2_2_1;
+subject to y_2_3_8_dependency_2: y_2_3_8 <= y_2_2_2;
+subject to y_2_3_8_dependency_3: y_2_3_8 <= y_2_2_3;
+subject to y_2_3_8_dependency_4: y_2_3_8 <= y_2_2_4;
+subject to y_2_3_8_dependency_5: y_2_3_8 <= y_2_2_5;
+subject to y_2_3_8_dependency_6: y_2_3_8 <= y_2_2_6;
+subject to y_2_3_8_dependency_7: y_2_3_8 <= y_2_2_7;
+subject to y_2_3_8_dependency_8: y_2_3_8 <= y_2_2_8;
+
+subject to y_2_4_1_dependency_1: y_2_4_1 <= y_2_3_1;
+subject to y_2_4_1_dependency_2: y_2_4_1 <= y_2_3_2;
+subject to y_2_4_1_dependency_3: y_2_4_1 <= y_2_3_3;
+subject to y_2_4_1_dependency_4: y_2_4_1 <= y_2_3_4;
+subject to y_2_4_1_dependency_5: y_2_4_1 <= y_2_3_5;
+subject to y_2_4_1_dependency_6: y_2_4_1 <= y_2_3_6;
+subject to y_2_4_1_dependency_7: y_2_4_1 <= y_2_3_7;
+subject to y_2_4_1_dependency_8: y_2_4_1 <= y_2_3_8;
+
+subject to y_2_4_2_dependency_1: y_2_4_2 <= y_2_3_1;
+subject to y_2_4_2_dependency_2: y_2_4_2 <= y_2_3_2;
+subject to y_2_4_2_dependency_3: y_2_4_2 <= y_2_3_3;
+subject to y_2_4_2_dependency_4: y_2_4_2 <= y_2_3_4;
+subject to y_2_4_2_dependency_5: y_2_4_2 <= y_2_3_5;
+subject to y_2_4_2_dependency_6: y_2_4_2 <= y_2_3_6;
+subject to y_2_4_2_dependency_7: y_2_4_2 <= y_2_3_7;
+subject to y_2_4_2_dependency_8: y_2_4_2 <= y_2_3_8;
+
+subject to y_2_4_3_dependency_1: y_2_4_3 <= y_2_3_1;
+subject to y_2_4_3_dependency_2: y_2_4_3 <= y_2_3_2;
+subject to y_2_4_3_dependency_3: y_2_4_3 <= y_2_3_3;
+subject to y_2_4_3_dependency_4: y_2_4_3 <= y_2_3_4;
+subject to y_2_4_3_dependency_5: y_2_4_3 <= y_2_3_5;
+subject to y_2_4_3_dependency_6: y_2_4_3 <= y_2_3_6;
+subject to y_2_4_3_dependency_7: y_2_4_3 <= y_2_3_7;
+subject to y_2_4_3_dependency_8: y_2_4_3 <= y_2_3_8;
+
+subject to y_2_4_4_dependency_1: y_2_4_4 <= y_2_3_1;
+subject to y_2_4_4_dependency_2: y_2_4_4 <= y_2_3_2;
+subject to y_2_4_4_dependency_3: y_2_4_4 <= y_2_3_3;
+subject to y_2_4_4_dependency_4: y_2_4_4 <= y_2_3_4;
+subject to y_2_4_4_dependency_5: y_2_4_4 <= y_2_3_5;
+subject to y_2_4_4_dependency_6: y_2_4_4 <= y_2_3_6;
+subject to y_2_4_4_dependency_7: y_2_4_4 <= y_2_3_7;
+subject to y_2_4_4_dependency_8: y_2_4_4 <= y_2_3_8;
+
+subject to y_2_4_5_dependency_1: y_2_4_5 <= y_2_3_1;
+subject to y_2_4_5_dependency_2: y_2_4_5 <= y_2_3_2;
+subject to y_2_4_5_dependency_3: y_2_4_5 <= y_2_3_3;
+subject to y_2_4_5_dependency_4: y_2_4_5 <= y_2_3_4;
+subject to y_2_4_5_dependency_5: y_2_4_5 <= y_2_3_5;
+subject to y_2_4_5_dependency_6: y_2_4_5 <= y_2_3_6;
+subject to y_2_4_5_dependency_7: y_2_4_5 <= y_2_3_7;
+subject to y_2_4_5_dependency_8: y_2_4_5 <= y_2_3_8;
+
+subject to y_2_4_6_dependency_1: y_2_4_6 <= y_2_3_1;
+subject to y_2_4_6_dependency_2: y_2_4_6 <= y_2_3_2;
+subject to y_2_4_6_dependency_3: y_2_4_6 <= y_2_3_3;
+subject to y_2_4_6_dependency_4: y_2_4_6 <= y_2_3_4;
+subject to y_2_4_6_dependency_5: y_2_4_6 <= y_2_3_5;
+subject to y_2_4_6_dependency_6: y_2_4_6 <= y_2_3_6;
+subject to y_2_4_6_dependency_7: y_2_4_6 <= y_2_3_7;
+subject to y_2_4_6_dependency_8: y_2_4_6 <= y_2_3_8;
+
+subject to y_2_4_7_dependency_1: y_2_4_7 <= y_2_3_1;
+subject to y_2_4_7_dependency_2: y_2_4_7 <= y_2_3_2;
+subject to y_2_4_7_dependency_3: y_2_4_7 <= y_2_3_3;
+subject to y_2_4_7_dependency_4: y_2_4_7 <= y_2_3_4;
+subject to y_2_4_7_dependency_5: y_2_4_7 <= y_2_3_5;
+subject to y_2_4_7_dependency_6: y_2_4_7 <= y_2_3_6;
+subject to y_2_4_7_dependency_7: y_2_4_7 <= y_2_3_7;
+subject to y_2_4_7_dependency_8: y_2_4_7 <= y_2_3_8;
+
+subject to y_2_4_8_dependency_1: y_2_4_8 <= y_2_3_1;
+subject to y_2_4_8_dependency_2: y_2_4_8 <= y_2_3_2;
+subject to y_2_4_8_dependency_3: y_2_4_8 <= y_2_3_3;
+subject to y_2_4_8_dependency_4: y_2_4_8 <= y_2_3_4;
+subject to y_2_4_8_dependency_5: y_2_4_8 <= y_2_3_5;
+subject to y_2_4_8_dependency_6: y_2_4_8 <= y_2_3_6;
+subject to y_2_4_8_dependency_7: y_2_4_8 <= y_2_3_7;
+subject to y_2_4_8_dependency_8: y_2_4_8 <= y_2_3_8;
+
+subject to y_2_5_1_dependency_1: y_2_5_1 <= y_2_4_1;
+subject to y_2_5_1_dependency_2: y_2_5_1 <= y_2_4_2;
+subject to y_2_5_1_dependency_3: y_2_5_1 <= y_2_4_3;
+subject to y_2_5_1_dependency_4: y_2_5_1 <= y_2_4_4;
+subject to y_2_5_1_dependency_5: y_2_5_1 <= y_2_4_5;
+subject to y_2_5_1_dependency_6: y_2_5_1 <= y_2_4_6;
+subject to y_2_5_1_dependency_7: y_2_5_1 <= y_2_4_7;
+subject to y_2_5_1_dependency_8: y_2_5_1 <= y_2_4_8;
+
+subject to y_2_5_2_dependency_1: y_2_5_2 <= y_2_4_1;
+subject to y_2_5_2_dependency_2: y_2_5_2 <= y_2_4_2;
+subject to y_2_5_2_dependency_3: y_2_5_2 <= y_2_4_3;
+subject to y_2_5_2_dependency_4: y_2_5_2 <= y_2_4_4;
+subject to y_2_5_2_dependency_5: y_2_5_2 <= y_2_4_5;
+subject to y_2_5_2_dependency_6: y_2_5_2 <= y_2_4_6;
+subject to y_2_5_2_dependency_7: y_2_5_2 <= y_2_4_7;
+subject to y_2_5_2_dependency_8: y_2_5_2 <= y_2_4_8;
+
+subject to y_2_5_3_dependency_1: y_2_5_3 <= y_2_4_1;
+subject to y_2_5_3_dependency_2: y_2_5_3 <= y_2_4_2;
+subject to y_2_5_3_dependency_3: y_2_5_3 <= y_2_4_3;
+subject to y_2_5_3_dependency_4: y_2_5_3 <= y_2_4_4;
+subject to y_2_5_3_dependency_5: y_2_5_3 <= y_2_4_5;
+subject to y_2_5_3_dependency_6: y_2_5_3 <= y_2_4_6;
+subject to y_2_5_3_dependency_7: y_2_5_3 <= y_2_4_7;
+subject to y_2_5_3_dependency_8: y_2_5_3 <= y_2_4_8;
+
+subject to y_2_5_4_dependency_1: y_2_5_4 <= y_2_4_1;
+subject to y_2_5_4_dependency_2: y_2_5_4 <= y_2_4_2;
+subject to y_2_5_4_dependency_3: y_2_5_4 <= y_2_4_3;
+subject to y_2_5_4_dependency_4: y_2_5_4 <= y_2_4_4;
+subject to y_2_5_4_dependency_5: y_2_5_4 <= y_2_4_5;
+subject to y_2_5_4_dependency_6: y_2_5_4 <= y_2_4_6;
+subject to y_2_5_4_dependency_7: y_2_5_4 <= y_2_4_7;
+subject to y_2_5_4_dependency_8: y_2_5_4 <= y_2_4_8;
+
+subject to y_2_5_5_dependency_1: y_2_5_5 <= y_2_4_1;
+subject to y_2_5_5_dependency_2: y_2_5_5 <= y_2_4_2;
+subject to y_2_5_5_dependency_3: y_2_5_5 <= y_2_4_3;
+subject to y_2_5_5_dependency_4: y_2_5_5 <= y_2_4_4;
+subject to y_2_5_5_dependency_5: y_2_5_5 <= y_2_4_5;
+subject to y_2_5_5_dependency_6: y_2_5_5 <= y_2_4_6;
+subject to y_2_5_5_dependency_7: y_2_5_5 <= y_2_4_7;
+subject to y_2_5_5_dependency_8: y_2_5_5 <= y_2_4_8;
+
+subject to y_2_5_6_dependency_1: y_2_5_6 <= y_2_4_1;
+subject to y_2_5_6_dependency_2: y_2_5_6 <= y_2_4_2;
+subject to y_2_5_6_dependency_3: y_2_5_6 <= y_2_4_3;
+subject to y_2_5_6_dependency_4: y_2_5_6 <= y_2_4_4;
+subject to y_2_5_6_dependency_5: y_2_5_6 <= y_2_4_5;
+subject to y_2_5_6_dependency_6: y_2_5_6 <= y_2_4_6;
+subject to y_2_5_6_dependency_7: y_2_5_6 <= y_2_4_7;
+subject to y_2_5_6_dependency_8: y_2_5_6 <= y_2_4_8;
+
+subject to y_2_5_7_dependency_1: y_2_5_7 <= y_2_4_1;
+subject to y_2_5_7_dependency_2: y_2_5_7 <= y_2_4_2;
+subject to y_2_5_7_dependency_3: y_2_5_7 <= y_2_4_3;
+subject to y_2_5_7_dependency_4: y_2_5_7 <= y_2_4_4;
+subject to y_2_5_7_dependency_5: y_2_5_7 <= y_2_4_5;
+subject to y_2_5_7_dependency_6: y_2_5_7 <= y_2_4_6;
+subject to y_2_5_7_dependency_7: y_2_5_7 <= y_2_4_7;
+subject to y_2_5_7_dependency_8: y_2_5_7 <= y_2_4_8;
+
+subject to y_2_5_8_dependency_1: y_2_5_8 <= y_2_4_1;
+subject to y_2_5_8_dependency_2: y_2_5_8 <= y_2_4_2;
+subject to y_2_5_8_dependency_3: y_2_5_8 <= y_2_4_3;
+subject to y_2_5_8_dependency_4: y_2_5_8 <= y_2_4_4;
+subject to y_2_5_8_dependency_5: y_2_5_8 <= y_2_4_5;
+subject to y_2_5_8_dependency_6: y_2_5_8 <= y_2_4_6;
+subject to y_2_5_8_dependency_7: y_2_5_8 <= y_2_4_7;
+subject to y_2_5_8_dependency_8: y_2_5_8 <= y_2_4_8;
+
+
