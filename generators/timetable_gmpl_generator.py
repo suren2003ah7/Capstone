@@ -1,9 +1,9 @@
-import generators.gmpl_utility as util
+import gmpl_utility as util
 import random
 
-FILENAME = "command.txt"
-OFFICES = 80
-PROFESSORS = 200
+FILENAME = "timetable.txt"
+OFFICES = 18
+PROFESSORS = 35
 HOURS = 8
 
 professorRequiredWorkHours = []
@@ -164,7 +164,6 @@ def generate_y_constraints():
 util.set_file_name(FILENAME)
 util.clear_file()
 
-random.seed(42)
 for _ in range(PROFESSORS):
     professorRequiredWorkHours.append(random.randint(1, 8))
 print("Preprocessing Complete!")

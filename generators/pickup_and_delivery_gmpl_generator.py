@@ -1,9 +1,9 @@
-import generators.gmpl_utility as util
+import gmpl_utility as util
 import random
 
 FILENAME = "pickup.txt"
-DELIVERY_BOYS = 8
-CUSTOMERS = 15
+DELIVERY_BOYS = 4
+CUSTOMERS = 11
 
 WAIT_TIME_COEFFICIENTS = []
 
